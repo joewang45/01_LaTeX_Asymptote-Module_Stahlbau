@@ -1,4 +1,4 @@
-# 01_LaTeX_Asymptote-Module_Stahlbau
+# 00_Installation und Konfiguration von Asymptote in LaTeX
 
 Hier ein bisschen Erfahrung über die Installation sowie Anwendung von dem Modul der Asymptote zum Erstellen von Zeichnungen in LaTeX. Vielen Dank an unserer HiWi Hendrik, der das Modul schreibt. 
 
